@@ -1,0 +1,13 @@
+{
+  "variables": {
+    "apiRoot": "https://serving.n1q.com/public",
+    "timeWindow": "15 分钟",
+    "apiFreqs": "180",
+    "paramsInfo": "> 提示： 为了节约篇幅，避免冗余，在本文中我们将接口中公共的查询参数说明省略了，点击查看详细的[公共参数](../query-params.md)",
+    "brandsPerAdvertiser": 500,
+    "mediasPerCampaign": 60,
+    "placementsPerCampaign": 3000,
+    "materialsPerCampaign": 200,
+    "advertisementsPerCampaign": 200
+  }
+}
